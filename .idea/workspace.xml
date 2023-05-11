@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8489a33-f36f-412c-a4af-12e51f78035c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/DrawingArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/DrawingTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Ear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Eye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Face.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/LocatedRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Mane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Mouth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Nose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Pinna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/PrideOfLions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Skin.java" afterDir="false" />
+    <list default="true" id="c8489a33-f36f-412c-a4af-12e51f78035c" name="Changes" comment="stand Labor2">
+      <change beforePath="$PROJECT_DIR$/src/drawingTool_00/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drawingTool_00/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +51,41 @@
       <option name="presentableId" value="Default" />
       <updated>1683816612899</updated>
     </task>
+    <task id="LOCAL-00001" summary="stand Labor2">
+      <created>1683817483526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683817483526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stand Labor2" />
+    <option name="LAST_COMMIT_MESSAGE" value="stand Labor2" />
   </component>
 </project>
