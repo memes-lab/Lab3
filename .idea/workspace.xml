@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8489a33-f36f-412c-a4af-12e51f78035c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/DrawingArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/DrawingTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Ear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Eye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Face.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/LocatedRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Mane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Mouth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Nose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Pinna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/PrideOfLions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Pupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawingTool_00/Skin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PeTafInOyPjhtyHplpiwENotZl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "onboarding.tips.debug.path": "/Users/lucasspencer/IdeaProjects/Lab3/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/drawingTool_00" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8489a33-f36f-412c-a4af-12e51f78035c" name="Changes" comment="" />
+      <created>1683816612899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683816612899</updated>
+    </task>
+    <servers />
+  </component>
+</project>
