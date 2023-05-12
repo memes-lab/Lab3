@@ -6,7 +6,7 @@ import java.awt.Point;
 import java.util.ArrayList;
 
 @SuppressWarnings("serial")
-public class DrawingArea extends JPanel {
+public class DrawingArea extends JPanel { // inheritance
 	
 	private PrideOfLions lionlist;
 	
