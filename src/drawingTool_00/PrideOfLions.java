@@ -8,9 +8,15 @@ public class PrideOfLions {
 
 	public PrideOfLions() {
 		lions = new ArrayList<LocatedRectangle>();
-		generateLion();
+		// generateLion();
+		double skalierung = 0.07;
+		Lion lion = new Lion(skalierung);
+		addALion(lion);
+		//double skalierung2 = 3;
+		//Lion lion2 = new Lion(skalierung2);
+		//addALion(lion2);
 	}
-
+	/* this was for genrATING THE PRIDE OFLIONS RANDOMLY ANd so that they dont overlap withbrandom skalierungen
 	public void generateLion() {
 		for (int x = 0; x < 1300; x += 1) {
 			int y = (int) RandomNumber.between(0, 700);
@@ -19,6 +25,7 @@ public class PrideOfLions {
 			addALion(lion);
 		}
 	}
+	*/
 
 	public void addALion(LocatedRectangle newLion) {
 		boolean contact = false;
