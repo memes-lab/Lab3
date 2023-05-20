@@ -8,11 +8,11 @@ public class PrideOfLions {
 
 	public PrideOfLions() {
 		lions = new ArrayList<LocatedRectangle>();
-		// generateLion();
+		// generateLion(); //this aswell
 		double skalierung = 0.07;
 		Lion lion = new Lion(skalierung);
 		addALion(lion);
-		//double skalierung2 = 3;
+		//double skalierung2 = 3; //and this
 		//Lion lion2 = new Lion(skalierung2);
 		//addALion(lion2);
 	}
